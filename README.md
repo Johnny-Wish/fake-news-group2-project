@@ -1,13 +1,5 @@
-# This Project has been permanently migrated to [another repository of mine](https://github.com/Johnny-Wish/fake-news-detection-pipeline).
-# Logs and Histories are only retained here for those who are sent the old link
-# Checkout my repo [fake-news-detection-pipeline](https://github.com/Johnny-Wish/fake-news-detection-pipeline) for further updates
-# Thanks
-\
-\
-\
+# This Project has been archived and permanently migrated to another repository ([fake-news-detection-pipeline](https://github.com/Johnny-Wish/fake-news-detection-pipeline)) of mine, where subsequent updates are available. Codes, logs, histories are only retained here for those sent/given the old link.
 
-
-# Fake News Detection Pipeline
 ## Collaborators: Shuheng Liu, Qiaoyi Yin, Yuyuan  Fang
 
 Group project materials for fake news detection at Hollis Lab, GEC Academy
